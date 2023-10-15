@@ -59,6 +59,7 @@
   <img src="https://www.vectorlogo.zone/logos/memcached/memcached-ar21.svg" alt="memcached" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="nuxtjs" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg" alt="openapi" height="50"/>
 </p>
 
