@@ -34,7 +34,7 @@
   
 - 📫 How to reach me: ovez.hojagulyyev@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
 
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="50"/>
