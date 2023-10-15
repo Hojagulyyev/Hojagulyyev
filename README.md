@@ -1,9 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ovez</h1>
+<h3 align="center">A passionate full-stack developer from Turkmenistan</h3>
 
+<!--
 <p float="left">
   <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Hojagulyyev&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojagulyyev&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
 </p>
+-->
 
 
 - 🔭 I’m currently working on RH-ERP/CRM
@@ -31,6 +34,31 @@
   
 - 📫 How to reach me: ovez.hojagulyyev@gmail.com
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="gunicorn" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jquery" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg" alt="openapi" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" height="100"/>
+  
+</p>
 
 <!--
 **Hojagulyyev/Hojagulyyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
