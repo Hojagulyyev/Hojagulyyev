@@ -37,27 +37,29 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="gunicorn" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jquery" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg" alt="openapi" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" height="100"/>
-  
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="gunicorn" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jquery" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="ubuntu" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/memcached/memcached-ar21.svg" alt="memcached" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="nuxtjs" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg" alt="openapi" height="50"/>
 </p>
 
 <!--
