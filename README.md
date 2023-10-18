@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ovez</h1>
-<h3 align="center">A passionate full-stack developer from Turkmenistan</h3>
+<h1 align="center">Hi 👋, I'm Ovezdurdy</h1>
+<h3 align="center">Entrepreneur & Lead full-stack developer from Turkmenistan.</h3>
 
 <!--
 <p float="left">
