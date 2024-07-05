@@ -9,7 +9,7 @@
 -->
 
 
-- 🔭 I’m currently working on RH-ERP/CRM
+- 🔭 I’m currently working on ERP/CRM app
   
 - 🌱 I'm currently improving:
   - Decentralized Database Management
@@ -21,7 +21,7 @@
   - Centralized Database Managment & Scaling Database Design
   - Clean Architecture
   - Vue2, Vue3, SPA
-  - Python3, Django3/4
+  - Python3, Django3/4, FastAPI
   - Devops, Linux Services
   - Design Patterns
   - Refactoring
@@ -30,7 +30,7 @@
   - Version control system
   - API Design
     
-- 🤔 I’m looking for help with RH-ERP/CRM
+- 🤔 I’m looking for help with ERP/CRM app
   
 - 📫 How to reach me: ovez.hojagulyyev@gmail.com
 
